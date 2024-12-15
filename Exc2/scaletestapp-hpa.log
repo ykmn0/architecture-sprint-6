@@ -1,0 +1,1 @@
+I1124 11:04:49.666708       1 horizontal.go:886] "Successfully rescaled" logger="horizontal-pod-autoscaler-controller" HPA="default/scaletestapp-hpa" currentReplicas=1 desiredReplicas=2 reason="memory resource utilization (percentage of request) above target"
